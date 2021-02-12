@@ -74,7 +74,6 @@ setup(
         'Programming Language :: Python :: Implementation :: CPython',
     ],
     install_requires=install_requires,
-    setup_requires=["pytest_runner"],
     tests_require=tests_require,
     test_suite="tests"
 )
